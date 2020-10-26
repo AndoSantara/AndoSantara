@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi, I'm Allifiando Dewantoro 👋
+Software Engineer, Backend Developer at [Santara](https://www.santara.com)
+
+[![Github](https://img.shields.io/github/followers/Allifiando?style=social)](https://github.com/Allifiando)
+[![Telegram](https://img.shields.io/static/v1?label=%20&message=Telegram&logo=telegram&style=flat&color=blue)](https://t.me/Allifiando)
+[![LinkedIn](https://img.shields.io/static/v1?label=%20&message=LinkedIn&logo=linkedIn&style=flat&color=blue)](https://www.linkedin.com/in/allifiando-dewantoro-418a2213b/)
 
 <!--
-**AndoSantara/AndoSantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Allifiando/Allifiando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
