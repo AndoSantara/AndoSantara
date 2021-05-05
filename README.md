@@ -1,5 +1,5 @@
 ### Hi, I'm Allifiando Dewantoro 👋
-Software Engineer, Backend Developer at [Santara](https://www.santara.com)
+Software Engineer, Backend Developer at [Santara](https://www.santara.co.id)
 
 [![Github](https://img.shields.io/github/followers/Allifiando?style=social)](https://github.com/Allifiando)
 [![Telegram](https://img.shields.io/static/v1?label=%20&message=Telegram&logo=telegram&style=flat&color=blue)](https://t.me/Allifiando)
